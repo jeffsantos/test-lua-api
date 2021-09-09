@@ -3,9 +3,7 @@
         {
             "name": "Linux",
             "includePath": [
-                "${workspaceFolder}/**"/* ,
-                "${workspaceFolder}/lua/install/include/",
-                "${workspaceFolder}/lua/src/" */
+                "${workspaceFolder}/**"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
